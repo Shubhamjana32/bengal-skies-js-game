@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bengal Skies: Flight for Rights</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="game-container">
+        <div id="monument-background"></div>
+        
+        <div id="public-figure"></div>
+        <div id="score-board">Score: 0</div>
+        
+        <div id="start-screen">
+            <h1>Bengal Skies: The Flight for Rights</h1>
+            <p>Help the Public of West Bengal navigate the obstacles of unfulfilled rights.</p>
+            <p>Click or tap to fly!</p>
+            <button id="start-button">Start Game</button>
+        </div>
+        
+        <div id="game-over-screen" style="display: none;">
+            <h2>Game Over</h2>
+            <p id="final-score"></p>
+            
+            <img id="game-over-image" src="assets/pisi.png" alt="Game Over Expression" style="max-width: 100px; margin-top: 15px; margin-bottom: 15px;">
+            <button id="restart-button">Play Again</button>
+        </div>
+    </div>
+    
+    <audio id="game-music" src="assets/humba.mp3" loop preload="auto"></audio>
+    <audio id="game-over-sound" src="assets/under.mp3" preload="auto"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
