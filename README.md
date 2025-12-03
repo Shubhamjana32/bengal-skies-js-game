@@ -1,8 +1,8 @@
 # 🐦 Bengal Skies: The Flight for Rights
 
-[![GitHub Pages Status](https://github.com/Shubhamjana32/bengal-skies-js-game/actions/workflows/github-pages.yml/badge.svg)](https://shubhamjana32.github.io/bengal-skies-js-game/)
+[![GitHub Pages Status](https://github.com/shubham-jana-dev.github.io/bengal-skies-js-game/actions/workflows/github-pages.yml/badge.svg)](https://shubham-jana-dev.github.io/bengal-skies-js-game/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Top Language: JavaScript](https://img.shields.io/github/languages/top/Shubhamjana32/bengal-skies-js-game)](https://github.com/Shubhamjana32/bengal-skies-js-game)
+[![Top Language: JavaScript](https://img.shields.io/github/languages/top/shubham-jana-dev.github.io/bengal-skies-js-game/)](https://github.com/shubham-jana-dev.github.io/bengal-skies-js-game/)
 
 > Bengal Skies: The Flight for Rights is a **Flappy Bird clone** showcasing foundational **front-end game development skills** using Vanilla JavaScript. This project implements a core physics engine, manages game state, tracks score, and utilizes **advanced CSS** for all graphics and textures.
 
@@ -10,7 +10,7 @@
 
 You can play the game directly in your browser:
 
-👉 **[Play Bengal Skies: The Flight for Rights](https://shubhamjana32.github.io/bengal-skies-js-game/)**
+👉 **[Play Bengal Skies: The Flight for Rights](https://shubham-jana-dev.github.io/bengal-skies-js-game/)**
 
 ---
 
